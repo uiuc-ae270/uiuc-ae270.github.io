@@ -5,4 +5,4 @@ permalink: /schedule/
 nav_order: 4
 ---
 
-The anticipated course schedule is below.
+{% for module in site.modules %} {{ module }} {% endfor %}

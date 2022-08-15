@@ -32,12 +32,24 @@ remote_theme: just-the-docs/just-the-docs
 # plugins:
 #   - jekyll-feed
 
+# Theme settings
 # Aux links for upper right navigation link
 aux_links:
   "Campuswire":
     - "https://campuswire.com/c/GF32E0DD9/feed"
   "Gradescope":
     - "https://www.gradescope.com/courses/418563"
+
+# Collections for website data
+collections:
+  modules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
 
 # Exclude from processing.
 # The following items will not be processed, by default.
