@@ -4,15 +4,18 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome!
+# Aerospace Numerical Methods
 
-This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and several other related fields. Here are some of the many exciting examples:
+**University of Illinois at Urbana-Champaign, Fall 2022**
 
+**Instructor:** Huy Tran
 
+**Time:** Monday, Wednesday, Friday @ 2:00 pm - 2:50 pm
 
-In this class, we will learn some of the key numerical methods that form the foundation of the vast majority of algorithms out there. Our aim will be to strike a balance between learning the mathematical underpinnings of these methods as well as how to implement them. That is, there will be a mix of analytical (pen and paper) work and some hands-on coding. 
+**Location:** 106B3 [Engineering Hall](https://goo.gl/maps/eeXxiwWpcUsN2Prh8)
 
-We hope you enjoy your exploration into this beautiful and important subject!
+Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the syllabus for more details.
 
-# Learning Outcomes
+We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods: 
 
+TODO

@@ -32,6 +32,13 @@ remote_theme: just-the-docs/just-the-docs
 # plugins:
 #   - jekyll-feed
 
+# Aux links for upper right navigation link
+aux_links:
+  "Campuswire":
+    - "https://campuswire.com/c/GF32E0DD9/feed"
+  "Gradescope":
+    - "https://www.gradescope.com/courses/418563"
+
 # Include in processing
 include: ["_pages"]
 
