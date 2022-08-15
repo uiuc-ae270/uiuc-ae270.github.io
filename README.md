@@ -22,14 +22,6 @@ The website was created using the following steps.
 
     Browse to [http://localhost:4000/](http://localhost:4000/).
 
-## Site Customization
-
-After following the [set up steps](#set-up-and-installation), you can customize the site as desired. I did the following.
-
-### Pages Structure
-
-I added a `_pages` directory to contain site page files like [`schedule.md`](_pages/schedule.md) and added "include: ["_pages"]" to the [`_config.yml`](_config.yml) to have those pages included in the built site.
-
 ## Contact
 
 Feel free to contact Huy Tran (huytran1@illinois.edu) with any questions!
