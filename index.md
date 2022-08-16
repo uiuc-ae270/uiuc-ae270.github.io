@@ -14,8 +14,8 @@ nav_order: 1
 
 **Location:** 106B3 [Engineering Hall](https://goo.gl/maps/eeXxiwWpcUsN2Prh8)
 
-Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the syllabus for more details.
+Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
-We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods: 
+We hope you enjoy your exploration into this beautiful and important subject!
 
-TODO
+<!-- Here are some (of many) exciting example applications of numerical methods:  -->
