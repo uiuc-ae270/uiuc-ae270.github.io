@@ -42,9 +42,16 @@ aux_links:
 
 # Collections for website data
 collections:
+  staffers:
   modules:
 # Default layouts for each collection type
 defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
@@ -61,6 +68,7 @@ defaults:
 #
 exclude:
   - /assets/modules_archive/
+  - /assets/templates/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

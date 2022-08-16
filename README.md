@@ -22,6 +22,10 @@ The website was created using the following steps.
 
     Browse to [http://localhost:4000/](http://localhost:4000/).
 
+## Customization
+
+The schedule was created using files from the [Just the Class](https://kevinl.info/just-the-class/) theme. Specifically, the `/_sass/`, `/_layouts/`, `/staffers/`, and `/_modules/` files were based on corresponding [files](https://github.com/kevinlin1/just-the-class) from that theme.
+
 ## Contact
 
 Feel free to contact Huy Tran (huytran1@illinois.edu) with any questions!
