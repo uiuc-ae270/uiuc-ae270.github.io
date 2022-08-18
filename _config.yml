@@ -35,6 +35,8 @@ remote_theme: just-the-docs/just-the-docs
 # Theme settings
 # Aux links for upper right navigation link
 aux_links:
+  "GitHub":
+    - "https://github.com/ae370-2022-fall"
   "Campuswire":
     - "https://campuswire.com/c/GF32E0DD9/feed"
   "Gradescope":
