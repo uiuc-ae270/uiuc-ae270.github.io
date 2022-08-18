@@ -67,8 +67,7 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - /assets/modules_archive/
-  - /assets/templates/
+  - /assets/ignore/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
