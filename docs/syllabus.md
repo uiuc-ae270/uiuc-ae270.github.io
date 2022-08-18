@@ -34,6 +34,8 @@ There is no textbook for this course. The lectures are designed to be self conta
 
 ## Course Tools
 
+See the [Programming Environment]({{ site.baseurl }}/resources/programming-environment) page for suggestions on setting up a programming environment for this course.
+
 ### Campuswire
 
 All announcements, questions, and course discussions will be handled on [Campuswire](https://campuswire.com/c/GF32E0DD9/feed). You can sign up using [this link](https://campuswire.com/p/GF32E0DD9) or code 7688.
@@ -48,7 +50,7 @@ All assignment submissions and grades will be handled on [Gradescope](https://ww
 
 All coding assignments will be done with [Python](https://www.python.org/) using [IPython](https://ipython.org/) ([Jupyter](https://jupyter.org/)) notebooks. Python is open-source, widely used, and has a very active support community (e.g., [stack overflow](https://stackoverflow.com/)).
 
-Homework 0 will help you install necessary software and includes a quick tutorial to help you get up-to-speed on Python for this course.
+Homework 1 is meant to be a quick refresher that gets you up-to-speed on Python for this course.
 
 ### GitHub
 
