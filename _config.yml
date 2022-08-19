@@ -36,7 +36,7 @@ remote_theme: just-the-docs/just-the-docs
 # Aux links for upper right navigation link
 aux_links:
   "GitHub":
-    - "https://github.com/ae370-2022-fall"
+    - "https://github.com/uiuc-ae370-2022-fall"
   "Campuswire":
     - "https://campuswire.com/c/GF32E0DD9/feed"
   "Gradescope":
