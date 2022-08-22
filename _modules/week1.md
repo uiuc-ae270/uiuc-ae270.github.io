@@ -3,8 +3,8 @@ title: Week 1 (Function Approximation)
 ---
 
 Mon Aug 22
-: **LEC 1**{: .label .label-grey }Intro & Logistics
-    : Setup env; GitHub (opt)
+: **LEC 1**{: .label .label-grey }[Intro & Logistics]({{ site.baseurl }}/assets/lectures/lec1-intro-logistics.pdf)
+    : [Setup env]({{ site.baseurl }}/resources/programming-environment); [GitHub (opt)](https://classroom.github.com/a/_UB9rUFu)
 
 Wed Aug 24
 : **LEC 2**{: .label .label-grey }Vector Spaces
