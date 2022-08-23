@@ -7,7 +7,7 @@ Mon Aug 29
 : **Quiz 1 Due**{: .label .label-red }
 
 Wed Aug 31
-: **LEC 5**{: .label .label-grey }Lagrange Basis Functions
+: **LEC 5**{: .label .label-grey }Lagrange Basis
 : **Quiz 2 Assigned**{: .label .label-yellow }
 
 Fri Sep 2

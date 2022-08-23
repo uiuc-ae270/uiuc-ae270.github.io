@@ -10,6 +10,6 @@ Wed Aug 24
 : **LEC 2**{: .label .label-grey }Vector Spaces
 
 Fri Aug 26
-: **LEC 3**{: .label .label-grey }Inner Products
+: **LEC 3**{: .label .label-grey }Approximation Error
     : HW 1: Python Refresher
 : **Quiz 1 Assigned**{: .label .label-yellow }**HW 1 Assigned**{: .label .label-yellow }
