@@ -7,7 +7,7 @@ Mon Aug 22
     : [Setup env]({{ site.baseurl }}/resources/programming-environment); [GitHub (opt)](https://classroom.github.com/a/_UB9rUFu)
 
 Wed Aug 24
-: **LEC 2**{: .label .label-grey }Vector Spaces
+: **LEC 2**{: .label .label-grey }[Vector Spaces]({{ site.baseurl }}/assets/lectures/lec2-vector-spaces.pdf)
 
 Fri Aug 26
 : **LEC 3**{: .label .label-grey }Approximation Error
