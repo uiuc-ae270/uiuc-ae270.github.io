@@ -10,6 +10,6 @@ Wed Aug 24
 : **LEC 2**{: .label .label-grey }[Vector Spaces]({{ site.baseurl }}/assets/lectures/lec2-vector-spaces.pdf)
 
 Fri Aug 26
-: **LEC 3**{: .label .label-grey }[Approximation Error]({{ site.baseurl }})/assets/lectures/lec3-appromimation-error.pdf)
+: **LEC 3**{: .label .label-grey }[Approximation Error]({{ site.baseurl }}/assets/lectures/lec3-approximation-error.pdf)
     : HW 1: Python Refresher
 : **Quiz 1 Assigned**{: .label .label-yellow }**HW 1 Assigned**{: .label .label-yellow }
