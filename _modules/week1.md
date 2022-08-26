@@ -11,5 +11,5 @@ Wed Aug 24
 
 Fri Aug 26
 : **LEC 3**{: .label .label-grey }[Approximation Error]({{ site.baseurl }}/assets/lectures/lec3-approximation-error.pdf)
-    : HW 1: Python Refresher
+    : [HW 1: Python Refresher](https://classroom.github.com/a/gu_HebVO)
 : **Quiz 1 Assigned**{: .label .label-yellow }**HW 1 Assigned**{: .label .label-yellow }

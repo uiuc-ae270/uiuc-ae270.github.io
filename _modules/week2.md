@@ -3,8 +3,7 @@ title: Week 2
 ---
 
 Mon Aug 29
-: **LEC 4**{: .label .label-grey }Basis Functions
-<!-- : **LEC 4**{: .label .label-grey }[Basis Functions]({{ site.baseurl }})/assets/lectures/lec4-basis-functions.pdf) -->
+: **LEC 4**{: .label .label-grey }[Basis Functions]({{ site.baseurl }}/assets/lectures/lec4-basis-functions.pdf)
 : **Quiz 1 Due**{: .label .label-red }
 
 Wed Aug 31
