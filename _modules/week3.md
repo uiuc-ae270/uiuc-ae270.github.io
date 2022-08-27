@@ -10,4 +10,4 @@ Wed Sep 7
 
 Fri Sep 9
 : **LEC 7**{: .label .label-grey }Trignometric Functions
-: **Quiz 3 Assigned**{: .label .label-yellow }
+: **Quiz 3 Assigned**{: .label .label-yellow }**HW 2 due**{: .label .label-red }
