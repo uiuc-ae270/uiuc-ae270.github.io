@@ -12,7 +12,7 @@ nav_order: 1
 
 **Time:** Monday, Wednesday, Friday @ 2:00 pm - 2:50 pm
 
-**Location:** 106B3 [Engineering Hall](https://goo.gl/maps/eeXxiwWpcUsN2Prh8)
+**Location:** Monday (1038 CIF 106B3), Wednesday/Friday ([Engineering Hall](https://goo.gl/maps/eeXxiwWpcUsN2Prh8))
 
 Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
