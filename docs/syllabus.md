@@ -72,11 +72,11 @@ While the group project will be a team effort, individual grades will be assigne
 
 **Drop Pollicy:** Your lowest homework grade will be dropped.
 
-**Late Policy:** Late mini-quiz submissions will not be accepted. Late homework and project submissions will be accepted up to 72 hours after the deadline with the following deductions: -15 points (within 24 hours of the deadline), -30 points (within 48 hours of the deadline), -60 points (within 72 hours of the deadline).
+**Late Policy:** Late mini-quiz submissions will not be accepted. Late homework and project submissions will be accepted up to 72 hours after the deadline with the following deductions: -10 points (within 24 hours of the deadline), -15 points (within 48 hours of the deadline), -20 points (within 72 hours of the deadline).
 
 # Grading
 
-Your final grade will calculated from quizzes (5%), homeworks (35%), project 1 (25%), and project 2 (25%). The following grading scale will be used:
+Your final grade will calculated from quizzes (5%), homeworks (35%), project 1 (25%), and project 2 (35%). The following grading scale will be used:
 
 | Grade | Point Range |
 | --- | --- |
