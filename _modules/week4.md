@@ -10,6 +10,5 @@ Wed Sep 14
 : **LEC 8**{: .label .label-grey }[Least Squares (1)]({{ site.baseurl }}/assets/lectures/lec8-least-squares-overview.pdf)
 
 Fri Sep 16
-: **LEC 9**{: .label .label-grey }Least Squares (2)
-<!-- : **LEC 9**{: .label .label-grey }[Least Squares (2)]({{ site.baseurl }}/assets/lectures/lec9-least-squares-bases.pdf) -->
+: **LEC 9**{: .label .label-grey }[Least Squares (2)]({{ site.baseurl }}/assets/lectures/lec9-least-squares-bases.pdf)
 : **Quiz 4 Assigned**{: .label .label-yellow }
