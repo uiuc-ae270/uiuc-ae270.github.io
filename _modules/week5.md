@@ -8,7 +8,7 @@ Mon Sep 19
 : **HW 4 Assigned**{: .label .label-yellow }**HW 3 Due**{: .label .label-red }**Quiz 4 Due**{: .label .label-red }
 
 Wed Sep 21
-: **LEC 10**{: .label .label-grey }Initial Value Problem
+: **LEC 10**{: .label .label-grey }[Initial Value Problem]({{ site.baseurl }}/assets/lectures/lec10-ivp.pdf)
 
 Fri Sep 23
 : **LEC 11**{: .label .label-grey }Multi-step Methods
