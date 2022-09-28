@@ -9,6 +9,7 @@ Mon Sep 26
 Wed Sep 28
 : **LEC 12**{: .label .label-grey }[Error in IVPs]({{ site.baseurl }}/assets/lectures/lec12-error-ivp.pdf)
     : [Error in IVPs Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec12-error-ivp-notes.pdf)
+    : [Video Recording](https://mediaspace.illinois.edu/channel/AE370+-+Aerospace+Numerical+Methods+%28Fall+2022%29/274905892/subscribe)
 
 Fri Sep 30
 : **LEC 13**{: .label .label-grey }Stiff IVPs
