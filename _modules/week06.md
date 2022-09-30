@@ -12,5 +12,6 @@ Wed Sep 28
     : [Video Recording](https://mediaspace.illinois.edu/channel/AE370+-+Aerospace+Numerical+Methods+%28Fall+2022%29/274905892/subscribe)
 
 Fri Sep 30
-: **LEC 13**{: .label .label-grey }Stiff IVPs
+: **LEC 13**{: .label .label-grey }[Stiff IVPs]({{ site.baseurl }}/assets/lectures/lec13-stiff-ivp.pdf)
+    : [Stiff IVPs Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec13-stiff-ivp-notes.pdf)
 : **Quiz 6 Assigned**{: .label .label-yellow }
