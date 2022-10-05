@@ -11,6 +11,6 @@ Wed Oct 5
     : [BVPs Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec14-bvp-fd-notes.pdf)
 
 Fri Oct 7
-: **LEC 15**{: .label .label-grey }Error in BVPs (FD)({{ site.baseurl }}/assets/lectures/lec15-error-bvp.pdf)
+: **LEC 15**{: .label .label-grey }[Error in BVPs (FD)]({{ site.baseurl }}/assets/lectures/lec15-error-bvp.pdf)
     : [Error in BVPs Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec15-error-bvp-notes.pdf)
 : **Quiz 7 Assigned**{: .label .label-yellow }
