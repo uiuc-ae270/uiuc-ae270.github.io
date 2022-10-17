@@ -8,7 +8,7 @@ Mon Oct 10
 
 Wed Oct 12
 : **Lab**{: .label .label-purple }Project 1 (Group)
-: **Project 1 (Individual) Due**{: .label .label-red }
 
 Fri Oct 14
 : **Lab**{: .label .label-purple }Project 1 (Group)
+: **Project 1 (Individual) Due**{: .label .label-red }
