@@ -8,7 +8,8 @@ Mon Oct 31
 
 Wed Nov 2
 : **Lec 20**{: .label .label-grey }[IBVP (FD 1)]({{ site.baseurl }}/assets/lectures/lec20-ibvp-fd1.pdf)
+    : [IBVP (FD) Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec20-ibvp-fd-notes.pdf) 
 
 Fri Nov 4
-: **Lec 21**{: .label .label-grey }IBVP (FD 2)
+: **Lec 21**{: .label .label-grey }[IBVP (FD 2)]({{ site.baseurl }}/assets/lectures/lec21-ibvp-fd2.pdf)
 : **Quiz 10 Assigned**{: .label .label-yellow }
