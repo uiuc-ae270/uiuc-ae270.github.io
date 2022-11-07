@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Mon Nov 7
-: **Lab**{: .label .label-purple }Project 2 (Individual)
+: **Lab**{: .label .label-purple }[Project 2 (Individual)](https://classroom.github.com/a/Fi_RVGGl)
     : [Project 1 (Group) Survey]({{ site.baseurl }}/assets/lectures/project1-group-survey.xlsx)
 : **Project 2 (Individual) Assigned**{: .label .label-yellow }**Project 1 (Group) Survey Assigned**{: .label .label-yellow }**HW 7 Due**{: .label .label-red }**Quiz 10 Due**{: .label .label-red }
 
