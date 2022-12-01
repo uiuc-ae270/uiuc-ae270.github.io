@@ -21,7 +21,7 @@ The website was created using the following steps.
 
 1. [Install](https://just-the-docs.github.io/just-the-docs/) the Just the Docs theme. The theme was installed as a [GitHub Pages remote theme](https://just-the-docs.github.io/just-the-docs/#quick-start-use-as-a-github-pages-remote-theme) for this site, which also required updating [`Gemfile`](Gemfile) to use GitHub Pages.
 
-Or just copy the files from this repo into the new site repo and modify them.
+    Or just copy the files from this repo into the new site repo and modify them.
 
 1. You should now be able to build the site make it available on a local server.
 
