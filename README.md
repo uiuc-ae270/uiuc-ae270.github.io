@@ -14,6 +14,11 @@ The website was created using the following steps.
 
 1. [Install](https://jekyllrb.com/docs/) Jekyll and create a new Jekyll site in the repo. See the note about adding `webrick`.
 
+    ```
+    gem install jekyll bundler
+    jekyll new .
+    ```
+
 1. [Install](https://just-the-docs.github.io/just-the-docs/) the Just the Docs theme. The theme was installed as a [GitHub Pages remote theme](https://just-the-docs.github.io/just-the-docs/#quick-start-use-as-a-github-pages-remote-theme) for this site, which also required updating [`Gemfile`](Gemfile) to use GitHub Pages.
 
 1. You should now be able to build the site make it available on a local server.
