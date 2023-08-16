@@ -16,7 +16,7 @@ The website is built using [Jekyll](https://jekyllrb.com/), hosted on [GitHub](h
     $ git clone https://github.com/uiuc-ae370-2023-fall/uiuc-ae370-2023-fall.github.io.git
     ```
 
-1. Install [Jekyll](https://jekyllrb.com/docs/installation/) and Bundler if needed. You might need to make sure the correct ruby version is being used. I installed [rbenv](https://github.com/rbenv/rbenv) to manage my ruby version.
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/) and Bundler if needed. You might need to make sure the correct ruby version is being used (currently ruby 3). I just used Homebrew for my ruby install, following directions [here](https://mac.install.guide/ruby/13.html).
 
     ```
     # check if jekyll is installed
