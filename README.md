@@ -42,14 +42,14 @@ The website is built using [Jekyll](https://jekyllrb.com/), hosted on [GitHub](h
 
 1. Copy desired files from this repo into the new site repo. I usually copy the following:
 
+    - _config.yml
     - _layouts/
     - _modules/
     - _sass/
     - _staffers/
+    - .gitignore
     - assets/
     - docs/
-    - _config.yml
-    - .gitignore
     - environment.yml
     - index.md
 
